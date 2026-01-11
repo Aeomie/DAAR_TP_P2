@@ -18,6 +18,8 @@ public class Parameters {
                              RIGHTTURNFULLANGLE = 0.5*Math.PI, //value set according to screen pixel coordinate reference
                              LEFTTURNFULLANGLE = -0.5*Math.PI;
 
+  public static final double STAGEWIDTH = 3000,
+		  					STAGEHEIGHT = 2000;
   //-----------------------//
   //---TEAM-A-PARAMETERS---//
   //-----------------------//
